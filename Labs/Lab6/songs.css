@@ -4,13 +4,17 @@ h2 {
 
 .theMan {
     background-color: plum;
+    text-align: center;
 }
 .endGame {
     background-color: lightskyblue;
+    text-align: center;
 }
 .look {
     background-color: crimson;
+    text-align: center;
 }
 .lover {
     background-color: hotpink;
+    text-align: center;
 }
